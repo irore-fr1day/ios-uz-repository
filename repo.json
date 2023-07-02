@@ -19,51 +19,12 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2023-05-12T23:30:00+0800",
-            "appName": "TikTok LRD",
-            "appVersion": "29.2.0",
-            "appImage": "https://cdn.discordapp.com/attachments/1104853172104736828/1104853172457062430/512x5122bb.jpg",
-            "appPlist": "https://cdn.discordapp.com/attachments/1104853172104736828/1104855586681659462/TTLRD_29.2.0tgiapps_ipa.ipa",
+            "appName": "Скоро",
+            "appVersion": "0,1",
+            "appImage": "https://ic.pics.livejournal.com/alexandr_ser/63322457/15500/15500_900.png",
+            "appPlist": "-",
             "appDescription": "Выкладывание видео и получение большого функционала."
-        },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-            "appUpdateTime": "2023-05-12T23:30:00+0800",
-            "appName": "Dark Reader",
-            "appVersion": "1.4.2",
-            "appImage": "https://cdn.discordapp.com/attachments/1095393618224742581/1106644770715082792/246x0w_1.png",
-            "appPlist": "https://cdn.discordapp.com/attachments/1095393618224742581/1095393873217454210/Dark_Reader_1.4.2.ipa",
-            "appDescription": "Тёмная тема для каждого сайта. Берегите зрение, используйте Dark Reader для ночного или ежедневного просмотра веб-страниц."
-        },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2023-05-12T23:30:00+0800",
-            "appName": "Filza MacDirtyCow",
-            "appVersion": "4.2.0",
-            "appImage": "https://cdn.discordapp.com/attachments/1095971422691676241/1095971422964293692/IMG_4329.png",
-            "appPlist": "https://cdn.discordapp.com/attachments/1095971422691676241/1095971540341886996/Filza_4.0.ipa",
-            "appDescription": "Управление файловой системой iOS /var\n⚠ iOS 15-15.7.1 // 16-16.1.3\n⚠ Устанавливайте на свой страх и риск. Если вы удалите не ту папку, можете попрощаться с системой iOS!"
-        },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2023-05-14T23:30:00+0800",
-            "appName": "TikTok LRD",
-            "appVersion": "29.3.0",
-            "appImage": "https://cdn.discordapp.com/attachments/1104853172104736828/1104853172457062430/512x5122bb.jpg",
-            "appPlist": "https://cdn.discordapp.com/attachments/1106980136328380457/1106981803857805463/TTLRDPlus_29.3.0tgiapps_ipa.ipa",
-            "appDescription": "Выкладывание видео и получение большого функционала."
-        },
-        {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2023-05-14T23:30:00+0800",
-            "appName": "TikTok Dark",
-            "appVersion": "29.3.0",
-            "appImage": "https://cdn.discordapp.com/attachments/1104853172104736828/1104853172457062430/512x5122bb.jpg",
-            "appPlist": "https://cdn.discordapp.com/attachments/1106987902040293406/1106989734246486096/TTDark_29.3.0tgiapps_ipa.ipa",
-            "appDescription": "Выкладывание видео и получение большого функционала."
+        }
         }
      ]
 }
